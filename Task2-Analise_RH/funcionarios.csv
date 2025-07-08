@@ -1,0 +1,51 @@
+id_funcionario,nome,departamento,cargo,data_admissao
+1,Funcionario_1,Financeiro,Coordenador,2023-12-23
+2,Funcionario_2,Operações,Coordenador,2018-07-20
+3,Funcionario_3,RH,Coordenador,2023-02-07
+4,Funcionario_4,Operações,Gerente,2020-02-19
+5,Funcionario_5,Operações,Desenvolvedor,2019-05-18
+6,Funcionario_6,TI,Analista Junior,2022-10-18
+7,Funcionario_7,RH,Coordenador,2020-03-15
+8,Funcionario_8,RH,Analista Senior,2023-11-17
+9,Funcionario_9,RH,Coordenador,2023-03-11
+10,Funcionario_10,Operações,Analista Senior,2022-04-20
+11,Funcionario_11,Financeiro,Analista Senior,2020-08-18
+12,Funcionario_12,RH,Coordenador,2022-01-25
+13,Funcionario_13,Operações,Gerente,2020-10-25
+14,Funcionario_14,TI,Analista Senior,2019-05-18
+15,Funcionario_15,Financeiro,Analista Senior,2019-02-02
+16,Funcionario_16,TI,Coordenador,2020-05-20
+17,Funcionario_17,Financeiro,Analista Senior,2019-01-28
+18,Funcionario_18,Operações,Analista Senior,2018-07-26
+19,Funcionario_19,Vendas,Coordenador,2020-11-04
+20,Funcionario_20,Financeiro,Coordenador,2023-02-25
+21,Funcionario_21,TI,Analista Junior,2022-01-24
+22,Funcionario_22,Operações,Gerente,2020-05-13
+23,Funcionario_23,Financeiro,Gerente,2019-07-18
+24,Funcionario_24,Vendas,Analista Senior,2020-10-17
+25,Funcionario_25,Vendas,Gerente,2018-04-06
+26,Funcionario_26,RH,Analista Senior,2023-04-08
+27,Funcionario_27,RH,Analista Junior,2022-10-24
+28,Funcionario_28,TI,Coordenador,2022-08-06
+29,Funcionario_29,Financeiro,Coordenador,2019-06-25
+30,Funcionario_30,Financeiro,Coordenador,2020-11-25
+31,Funcionario_31,RH,Gerente,2021-03-29
+32,Funcionario_32,Financeiro,Analista Junior,2022-09-19
+33,Funcionario_33,Financeiro,Gerente,2022-12-25
+34,Funcionario_34,Vendas,Gerente,2022-05-17
+35,Funcionario_35,RH,Analista Junior,2020-03-06
+36,Funcionario_36,Operações,Analista Junior,2020-11-17
+37,Funcionario_37,RH,Analista Junior,2022-07-02
+38,Funcionario_38,Operações,Analista Junior,2021-09-25
+39,Funcionario_39,Vendas,Coordenador,2023-06-05
+40,Funcionario_40,TI,Desenvolvedor,2021-09-16
+41,Funcionario_41,Financeiro,Desenvolvedor,2022-07-22
+42,Funcionario_42,Vendas,Analista Junior,2022-03-10
+43,Funcionario_43,Financeiro,Desenvolvedor,2023-08-01
+44,Funcionario_44,TI,Desenvolvedor,2022-02-05
+45,Funcionario_45,TI,Analista Junior,2021-11-09
+46,Funcionario_46,Vendas,Desenvolvedor,2021-11-01
+47,Funcionario_47,TI,Gerente,2021-07-30
+48,Funcionario_48,Operações,Analista Senior,2020-08-30
+49,Funcionario_49,TI,Analista Senior,2022-11-04
+50,Funcionario_50,Financeiro,Analista Junior,2021-07-06
